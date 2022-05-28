@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+sklearn
+opencv-python-headless
+gunicorn
+Flask
+Pillow
