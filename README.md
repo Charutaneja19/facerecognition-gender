@@ -30,6 +30,10 @@ In a nutshell, the data captured from the project can be used to design marketin
  # Future Roadmap
  * Integrate a web camera with this website
  * Predit Identity, emotions and age using face recognition
+ # How to run this project
+ * 1. activate virtual enviornment on anaconda prompt
+ * 2. go the the directory where project is stored on your system
+ * 3. run main.py file
  
  
  
